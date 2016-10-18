@@ -1,3 +1,9 @@
+#Edge
+Release date: unreleased
+
+### Fixed
+* Capybara::Result#each now returns an `Enumerator` when called without a block - Issue #1777 [Thomas Walpole]
+
 #2.10.1
 Release date: 2016-10-08
 
